@@ -18,5 +18,11 @@
   <input type="submit"><br>
 </form>
 
+<form action="getEmploye">
+  <label for="empId">empId:</label><br>
+  <input type="text" id="empId" name="empId"><br>  
+  <input type="submit"><br>
+</form>
+
 </body>
 </html>
